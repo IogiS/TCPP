@@ -1,1 +1,0 @@
-Game1.clou = !Game1.clou;

@@ -1,1 +1,0 @@
-return (Counter % 2 == 0);

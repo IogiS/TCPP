@@ -10,8 +10,3 @@ string GetTextDiv2(string text)
  return "&nbsp" + text.Substring(0, mid) + " <br/>&nbsp" +
 text.Substring(mid, text.Length - mid);
  }
-Дмитрий	5000
-Фурсов 7
-mid 5000
-
- 
